@@ -35,7 +35,7 @@ public class PeopleApplicationTest {
         givenNames.add("Roos Tarpals");
         givenNames.add("Rugor Nass");
         givenNames.add("Yarael Poof");
-        givenNames.add("Tuan We");
+        givenNames.add("Taun We");
         givenNames.add("Grievous");
         givenNames.add("Tarfful");
         givenNames.add("Tion Medon");
