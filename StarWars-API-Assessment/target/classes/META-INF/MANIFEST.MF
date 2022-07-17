@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: peoples
+Implementation-Version: 2.0-SNAPSHOT
+Built-By: ushas
+Implementation-Vendor-Id: org.swapi
+Build-Jdk: 1.8.0_281
+Implementation-URL: https://spring.io/projects/spring-boot/peoples
+Created-By: Maven Integration for Eclipse
+
